@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 12.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:PUBLISH
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:Free online workshop Aug 6, 1:00 pm - 5:15 pm EDT\n\nCurious about the possibilities of WebAssembly in the Cloud and Kubernetes? Join developers from the Krustlet and waSCC community for a free half-day workshop exploring where WebAssembly in the Cloud is headed. We’ll spend some time introducing Krustlet (the Kubernetes Kubelet in Rust for running WASM) and waSCC (WebAssembly Secure Capabilities Connector), then jump into a hands-on tutorial on Assembly Mechs, and finally match wits in an interactive online game -\n\nWelcome to the WasmDome!
+DTEND:20200806T211500Z
+DTSTART:20200806T170000Z
+LOCATION:Check ExploreWasm.com for details!
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Wasm in the Cloud!
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E008000000008062306C6261CA01000000000000000
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MS-OLK-CONFTYPE:0
+BEGIN:VALARM
+TRIGGER:-PT1440M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
